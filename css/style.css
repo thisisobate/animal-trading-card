@@ -29,11 +29,12 @@ a {
 }
 
 .header-img{
-  background: url("../images/dog.jpg") no-repeat;
+  background-image: url("../images/dog.jpg");
   height: 300px;
   background-size: cover;
   background-position: center;
   background-color: none;
+  background-repeat: no-repeat;
 }
 
 .main{
